@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="ru_project_title"><![CDATA[New Project]]></data>
+
+
+  <data name="ru_panogroup309_title"><![CDATA[Лаборатория Медиа]]></data>
+
+  <data name="ru_pano308_title"><![CDATA[Медиа 1]]></data>
+  <data name="ru_spotpoint378_tooltip"><![CDATA[Медиа 2]]></data>
+  <data name="ru_spotpoint379_tooltip"><![CDATA[Медиа 3]]></data>
+  <data name="ru_spotpoint385_tooltip"><![CDATA[Оборудование]]></data>
+  <data name="ru_spotpolygon406_tooltip"><![CDATA[3 этаж Кванториум]]></data>
+  <data name="ru_pano306_title"><![CDATA[Медиа 2]]></data>
+  <data name="ru_spotpoint380_tooltip"><![CDATA[Медиа 1]]></data>
+  <data name="ru_spotpoint381_tooltip"><![CDATA[Медиа 3]]></data>
+  <data name="ru_spotvideo384_tooltip"><![CDATA[Презентация Кванториум]]></data>
+  <data name="ru_spotpoint386_tooltip"><![CDATA[Оборудование]]></data>
+  <data name="ru_spotpoint387_tooltip"><![CDATA[Оборудование]]></data>
+  <data name="ru_spotpoint388_tooltip"><![CDATA[Оборудование]]></data>
+  <data name="ru_spotpoint389_tooltip"><![CDATA[QR-код группы Кванториума в ВК]]></data>
+  <data name="ru_pano307_title"><![CDATA[Медиа 3]]></data>
+  <data name="ru_spotpoint382_tooltip"><![CDATA[Медиа 2]]></data>
+  <data name="ru_spotpoint383_tooltip"><![CDATA[Медиа 1]]></data>
+  <data name="ru_spotpoint390_tooltip"><![CDATA[Оборудование]]></data>
+  <data name="ru_spotpoint391_tooltip"><![CDATA[Оборудование]]></data>
+  <data name="ru_spotpoint392_tooltip"><![CDATA[Оборудование]]></data>
+
+  <data name="ru_panogroup399_title"><![CDATA[3 этаж Кванториум]]></data>
+
+  <data name="ru_pano398_title"><![CDATA[Коридор 1]]></data>
+  <data name="ru_spotpoint416_tooltip"><![CDATA[Коридор 2]]></data>
+  <data name="ru_spotpolygon457_tooltip"><![CDATA[Лаборатория биологии]]></data>
+  <data name="ru_spotpolygon754_tooltip"><![CDATA[На 1-ый этаж Кванториум]]></data>
+  <data name="ru_pano393_title"><![CDATA[Коридор 2]]></data>
+  <data name="ru_spotpolygon405_tooltip"><![CDATA[Лаборатория Медиа]]></data>
+  <data name="ru_spotpoint407_tooltip"><![CDATA[Коридор 3]]></data>
+  <data name="ru_spotpoint415_tooltip"><![CDATA[Коридор 1]]></data>
+  <data name="ru_pano394_title"><![CDATA[Коридор 3]]></data>
+  <data name="ru_spotpoint408_tooltip"><![CDATA[Коридор 4]]></data>
+  <data name="ru_spotpoint409_tooltip"><![CDATA[Коридор 2]]></data>
+  <data name="ru_spotpoint432_tooltip"><![CDATA[Кванториум Нягань]]></data>
+  <data name="ru_spotpoint432openurlwebsiteurl"><![CDATA[https://shkola3nyagan-r86.gosuslugi.ru/nasha-shkola/shkolnyy-kvantorium/]]></data>
+  <data name="ru_pano395_title"><![CDATA[Коридор 4]]></data>
+  <data name="ru_spotpoint410_tooltip"><![CDATA[Коридор 5]]></data>
+  <data name="ru_spotpoint411_tooltip"><![CDATA[Коридор 3]]></data>
+  <data name="ru_spotpolygon468_tooltip"><![CDATA[Лаборатория физики]]></data>
+  <data name="ru_pano396_title"><![CDATA[Коридор 5]]></data>
+  <data name="ru_spotpoint412_tooltip"><![CDATA[Коридор 6]]></data>
+  <data name="ru_spotpoint413_tooltip"><![CDATA[Коридор 4]]></data>
+  <data name="ru_spotpolygon493_tooltip"><![CDATA[Лаборатория химии]]></data>
+  <data name="ru_pano397_title"><![CDATA[Коридор 6]]></data>
+  <data name="ru_spotpoint414_tooltip"><![CDATA[Коридор 5]]></data>
+  <data name="ru_spotpolygon523_tooltip"><![CDATA[Лаборантская: Химия]]></data>
+
+  <data name="ru_panogroup440_title"><![CDATA[Лаборатория биологии]]></data>
+
+  <data name="ru_pano433_title"><![CDATA[Биология 1]]></data>
+  <data name="ru_spotpoint448_tooltip"><![CDATA[Биология 2]]></data>
+  <data name="ru_spotpoint449_tooltip"><![CDATA[Биология 3]]></data>
+  <data name="ru_spotpolygon456_tooltip"><![CDATA[3 этаж Кванториум]]></data>
+  <data name="ru_pano434_title"><![CDATA[Биология 2]]></data>
+  <data name="ru_spotpoint450_tooltip"><![CDATA[Биология 1]]></data>
+  <data name="ru_spotpoint451_tooltip"><![CDATA[Биология 3]]></data>
+  <data name="ru_pano435_title"><![CDATA[Биология 3]]></data>
+  <data name="ru_spotpoint452_tooltip"><![CDATA[Биология 2]]></data>
+  <data name="ru_spotpoint453_tooltip"><![CDATA[Биология 1]]></data>
+  <data name="ru_spotpolygon454_tooltip"><![CDATA[Лаборантская: Биология]]></data>
+  <data name="ru_spotpoint458_tooltip"><![CDATA[Информация]]></data>
+  <data name="ru_spotpoint459_tooltip"><![CDATA[Информация]]></data>
+  <data name="ru_pano436_title"><![CDATA[Лаборантская: Биология]]></data>
+  <data name="ru_spotpolygon455_tooltip"><![CDATA[Кабинет Биологии]]></data>
+
+  <data name="ru_panogroup465_title"><![CDATA[Лаборатория физики]]></data>
+
+  <data name="ru_pano462_title"><![CDATA[Физика 1]]></data>
+  <data name="ru_spotpolygon469_tooltip"><![CDATA[3 этаж Кванториум]]></data>
+  <data name="ru_spotpoint470_tooltip"><![CDATA[Физика 2]]></data>
+  <data name="ru_spotpoint471_tooltip"><![CDATA[Физика 3]]></data>
+  <data name="ru_pano463_title"><![CDATA[Физика 2]]></data>
+  <data name="ru_spotpoint472_tooltip"><![CDATA[Физика 1]]></data>
+  <data name="ru_spotpoint473_tooltip"><![CDATA[Физика 3]]></data>
+  <data name="ru_spotpoint481_tooltip"><![CDATA[Формула плотности стали]]></data>
+  <data name="ru_pano464_title"><![CDATA[Физика 3]]></data>
+  <data name="ru_spotpoint474_tooltip"><![CDATA[Физика 2]]></data>
+  <data name="ru_spotpoint475_tooltip"><![CDATA[Физика 1]]></data>
+  <data name="ru_spotpoint476_tooltip"><![CDATA[Оборудование]]></data>
+  <data name="ru_spotpoint477_tooltip"><![CDATA[Информация]]></data>
+  <data name="ru_spotpoint478_tooltip"><![CDATA[Оборудование]]></data>
+  <data name="ru_spotpoint479_tooltip"><![CDATA[Оборудование]]></data>
+
+  <data name="ru_panogroup485_title"><![CDATA[Лаборатория химии]]></data>
+
+  <data name="ru_pano483_title"><![CDATA[Химия 1]]></data>
+  <data name="ru_spotpolygon494_tooltip"><![CDATA[3 этаж Кванториум]]></data>
+  <data name="ru_spotpoint495_tooltip"><![CDATA[Химия 2]]></data>
+  <data name="ru_spotpoint496_tooltip"><![CDATA[Химия 3]]></data>
+  <data name="ru_spotpolygon515_tooltip"><![CDATA[Лаборантская: Химия]]></data>
+  <data name="ru_pano484_title"><![CDATA[Химия 2]]></data>
+  <data name="ru_spotpoint497_tooltip"><![CDATA[Химия 1]]></data>
+  <data name="ru_spotpoint498_tooltip"><![CDATA[Химия 3]]></data>
+  <data name="ru_spotpoint501_tooltip"><![CDATA[Оборудование]]></data>
+  <data name="ru_pano482_title"><![CDATA[Химия 3]]></data>
+  <data name="ru_spotpoint499_tooltip"><![CDATA[Химия 2]]></data>
+  <data name="ru_spotpoint500_tooltip"><![CDATA[Химия 1]]></data>
+  <data name="ru_pano505_title"><![CDATA[Лаборантская: Химия 1]]></data>
+  <data name="ru_spotpolygon516_tooltip"><![CDATA[Кабинет Химии]]></data>
+  <data name="ru_spotpoint518_tooltip"><![CDATA[Лаборантская: Химия 2]]></data>
+  <data name="ru_spotpoint519_tooltip"><![CDATA[Лаборантская: Химия 4]]></data>
+  <data name="ru_spotpoint530_tooltip"><![CDATA[Оборудование]]></data>
+  <data name="ru_spotpoint536_tooltip"><![CDATA[Информация]]></data>
+  <data name="ru_pano503_title"><![CDATA[Лаборантская: Химия 2]]></data>
+  <data name="ru_spotpoint520_tooltip"><![CDATA[Лаборантская: Химия 1]]></data>
+  <data name="ru_spotpoint521_tooltip"><![CDATA[Лаборантская: Химия 3]]></data>
+  <data name="ru_spotpolygon522_tooltip"><![CDATA[3 этаж Кванториум]]></data>
+  <data name="ru_spotpolygon524_tooltip"><![CDATA[Кабинет Химии]]></data>
+  <data name="ru_pano504_title"><![CDATA[Лаборантская: Химия 3]]></data>
+  <data name="ru_spotpoint525_tooltip"><![CDATA[Лаборантская: Химия 2]]></data>
+  <data name="ru_spotpolygon526_tooltip"><![CDATA[3 этаж Кванториум]]></data>
+  <data name="ru_spotpoint527_tooltip"><![CDATA[Лаборантская: Химия 4]]></data>
+  <data name="ru_spotpoint532_tooltip"><![CDATA[Информация]]></data>
+  <data name="ru_pano506_title"><![CDATA[Лаборантская: Химия 4]]></data>
+  <data name="ru_spotpoint528_tooltip"><![CDATA[Лаборантская: Химия 1]]></data>
+  <data name="ru_spotpoint529_tooltip"><![CDATA[Лаборантская: Химия 3]]></data>
+  <data name="ru_spotpoint534_tooltip"><![CDATA[Информация]]></data>
+
+  <data name="ru_panogroup750_title"><![CDATA[1 этаж Кванториум]]></data>
+
+  <data name="ru_pano747_title"><![CDATA[Коридор 1]]></data>
+  <data name="ru_spotpolygon753_tooltip"><![CDATA[На 3-ий этаж Кванториум]]></data>
+  <data name="ru_spotpoint755_tooltip"><![CDATA[Коридор 2]]></data>
+  <data name="ru_spotpolygon793_tooltip"><![CDATA[Технологическая лаборатория Робо]]></data>
+  <data name="ru_spotpoint795_tooltip"><![CDATA[Коридор 3]]></data>
+  <data name="ru_pano748_title"><![CDATA[Коридор 2]]></data>
+  <data name="ru_spotpoint756_tooltip"><![CDATA[Коридор 1]]></data>
+  <data name="ru_spotpolygon773_tooltip"><![CDATA[Технологическая лаборатория Робо»]]></data>
+  <data name="ru_spotpolygon794_tooltip"><![CDATA[На 3ий этаж Кванториума]]></data>
+  <data name="ru_pano749_title"><![CDATA[Коридор 3]]></data>
+  <data name="ru_spotpoint796_tooltip"><![CDATA[Коридор 1]]></data>
+  <data name="ru_spotpolygon809_tooltip"><![CDATA[Технологическая лаборатория Хайтек]]></data>
+
+  <data name="ru_panogroup762_title"><![CDATA[Технологическая лаборатория Робо]]></data>
+
+  <data name="ru_pano757_title"><![CDATA[Робо 1]]></data>
+  <data name="ru_spotpolygon774_tooltip"><![CDATA[1-ый этаж Кванториум]]></data>
+  <data name="ru_spotpoint775_tooltip"><![CDATA[Робо 2]]></data>
+  <data name="ru_spotpoint776_tooltip"><![CDATA[Робо 3]]></data>
+  <data name="ru_pano758_title"><![CDATA[Робо 2]]></data>
+  <data name="ru_spotpoint778_tooltip"><![CDATA[Робо 1]]></data>
+  <data name="ru_spotpoint779_tooltip"><![CDATA[Робо 3]]></data>
+  <data name="ru_spotvideo791_tooltip"><![CDATA[Работа 3D принтера]]></data>
+  <data name="ru_pano759_title"><![CDATA[Робо 3]]></data>
+  <data name="ru_spotpoint780_tooltip"><![CDATA[Робо 2]]></data>
+  <data name="ru_spotpoint781_tooltip"><![CDATA[Робо 1]]></data>
+  <data name="ru_spotpoint782_tooltip"><![CDATA[Робо 4]]></data>
+  <data name="ru_spotpoint788_tooltip"><![CDATA[Информация]]></data>
+  <data name="ru_pano760_title"><![CDATA[Робо 4]]></data>
+  <data name="ru_spotpoint784_tooltip"><![CDATA[Робо 3]]></data>
+  <data name="ru_spotpoint785_tooltip"><![CDATA[Робо 1]]></data>
+  <data name="ru_spotpoint789_tooltip"><![CDATA[Оборудование]]></data>
+  <data name="ru_spotpoint790_tooltip"><![CDATA[Информация]]></data>
+
+  <data name="ru_panogroup803_title"><![CDATA[Технологическая лаборатория Хайтек]]></data>
+
+  <data name="ru_pano797_title"><![CDATA[Кабинет хайтек 1]]></data>
+  <data name="ru_spotpolygon810_tooltip"><![CDATA[1-ый этаж Кванториума]]></data>
+  <data name="ru_spotpoint811_tooltip"><![CDATA[Кабинет хайтек 2]]></data>
+  <data name="ru_spotpoint812_tooltip"><![CDATA[Кабинет хайтек 6]]></data>
+  <data name="ru_pano798_title"><![CDATA[Кабинет хайтек 2]]></data>
+  <data name="ru_spotpoint813_tooltip"><![CDATA[Кабинет хайтек 1]]></data>
+  <data name="ru_spotpoint814_tooltip"><![CDATA[Кабинет хайтек 3]]></data>
+  <data name="ru_spotpoint820_tooltip"><![CDATA[Кабинет хайтек 5]]></data>
+  <data name="ru_spotpoint825_tooltip"><![CDATA[Оборудование]]></data>
+  <data name="ru_spotpoint826_tooltip"><![CDATA[Оборудование]]></data>
+  <data name="ru_pano799_title"><![CDATA[Кабинет хайтек 3]]></data>
+  <data name="ru_spotpoint815_tooltip"><![CDATA[Кабинет хайтек 2]]></data>
+  <data name="ru_spotpoint816_tooltip"><![CDATA[Кабинет хайтек 4]]></data>
+  <data name="ru_pano800_title"><![CDATA[Кабинет хайтек 4]]></data>
+  <data name="ru_spotpoint817_tooltip"><![CDATA[Кабинет хайтек 3]]></data>
+  <data name="ru_spotpoint818_tooltip"><![CDATA[Кабинет хайтек 5]]></data>
+  <data name="ru_spotpoint819_tooltip"><![CDATA[Кабинет хайтек 6]]></data>
+  <data name="ru_pano801_title"><![CDATA[Кабинет хайтек 5]]></data>
+  <data name="ru_spotpoint821_tooltip"><![CDATA[Кабинет хайтек 2]]></data>
+  <data name="ru_spotpoint822_tooltip"><![CDATA[Кабинет хайтек 4]]></data>
+  <data name="ru_spotpoint827_tooltip"><![CDATA[Информация]]></data>
+  <data name="ru_pano802_title"><![CDATA[Кабинет хайтек 6]]></data>
+  <data name="ru_spotpoint823_tooltip"><![CDATA[Кабинет хайтек 1]]></data>
+  <data name="ru_spotpoint824_tooltip"><![CDATA[Кабинет хайтек 4]]></data>
+  <data name="ru_spotpoint828_tooltip"><![CDATA[Информация]]></data>
+  <data name="ru_spotpoint829_tooltip"><![CDATA[Информация]]></data>
+
+
+
+
+
+
+  <data name="ru_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="ru_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="ru_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="ru_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="ru_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="ru_controlBar_classiczoomInTip"><![CDATA[Приблизить]]></data>
+  <data name="ru_controlBar_classiczoomOutTip"><![CDATA[Отдалить]]></data>
+  <data name="ru_controlBar_classicmoveLeftTip"><![CDATA[Поворот влево]]></data>
+  <data name="ru_controlBar_classicmoveRightTip"><![CDATA[Поворот вправо]]></data>
+  <data name="ru_controlBar_classicmoveUpTip"><![CDATA[Поднять вверх]]></data>
+  <data name="ru_controlBar_classicmoveDownTip"><![CDATA[Опустить вниз]]></data>
+  <data name="ru_controlBar_classicopenFsTip"><![CDATA[Войти в полноэкранный режим]]></data>
+  <data name="ru_controlBar_classiccloseFsTip"><![CDATA[Выйти из полноэкранного режима]]></data>
+  <data name="ru_controlBar_classicautorotateOnTip"><![CDATA[Включить автоповорот]]></data>
+  <data name="ru_controlBar_classicautorotateOffTip"><![CDATA[Выключить автоповорот]]></data>
+  <data name="ru_controlBar_classicshowThumbnailsTip"><![CDATA[Показать ]]></data>
+  <data name="ru_controlBar_classichideThumbnailsTip"><![CDATA[Скрыть]]></data>
+  <data name="ru_controlBar_classicdisplayHelpTip"><![CDATA[Открыть экран помощи]]></data>
+  <data name="ru_controlBar_classichideHelpTip"><![CDATA[Закрыть экран помощи]]></data>
+  <data name="ru_controlBar_classicdisplayInfoTip"><![CDATA[Открыть описание]]></data>
+  <data name="ru_controlBar_classichideInfoTip"><![CDATA[Закрыть описание]]></data>
+  <data name="ru_controlBar_classicdisplayControlsTip"><![CDATA[Открыть панель помощии]]></data>
+  <data name="ru_controlBar_classichideControlsTip"><![CDATA[Закрыть панель помощи]]></data>
+  <data name="ru_controlBar_classicctrlmodeDragTip"><![CDATA[Поменять способ навигации ]]></data>
+  <data name="ru_controlBar_classicctrlmodeMoveTip"><![CDATA[Поменять способ навигации ]]></data>
+  <data name="ru_prevnexttheme2prevSceneTip"><![CDATA[Previous Scene]]></data>
+  <data name="ru_prevnexttheme2nextSceneTip"><![CDATA[Next Scene]]></data>
+  <data name="ru_logowebsiteurl"><![CDATA[https://vk.com/kvantoriumnyagan]]></data>
+  <data name="ru_logotooltipText"><![CDATA[Открыть группу]]></data>
+  <data name="ru_descriptiondescription_title"><![CDATA[Добро пожаловать!]]></data>
+
+
+  <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="ru_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="ru_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="ru_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="ru_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="ru_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="ru_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="ru_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="ru_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="ru_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="ru_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="ru_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="ru_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="ru_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="ru_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="ru_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="ru_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="ru_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="ru_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="ru_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="ru_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="ru_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="ru_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="ru_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="ru_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="ru_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+  <data name="ru_panogroup309_description"><![CDATA[<div><font face="arial, sans-serif"><b>«Лаборатория Медиа»</b></font></div><div><font face="trebuchet ms, sans-serif">Творческая среда, в которой обучающиеся осваивают производство медиаконтента во всех его видах.&nbsp;</font></div><div><font face="trebuchet ms, sans-serif">Лаборатория оснащена оборудованием для студийной съёмки: искусственный свет, профессиональная видеокамера, два зеркальных фотоаппарата, вспышки, микрофоны, штативы.</font></div><div><font face="trebuchet ms, sans-serif">А также на занятиях ребята используют в работе мультимедийную панель и современные мощные ноутбуки.<br><br>РЕКОМЕНДАЦИИ ДЛЯ ПРОХОЖДЕНИЯ ТУРА:</font><br style="font-family: 'trebuchet ms', sans-serif;"><b style="font-family: 'trebuchet ms', sans-serif;">- включить полноэкранный режим<br>- при в ходе в новый кабинет в панели задач нажимать на значок описания (панель снизу)<br>- никуда не торопиться!<br></b><br style="font-family: 'trebuchet ms', sans-serif;"><span style="font-family: 'trebuchet ms', sans-serif;">Приятной экскурсии!&nbsp;</span></div>]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <data name="ru_panogroup440_description"><![CDATA[<b style="font-family: arial, sans-serif;">«Лаборатория биологии»</b><div><div><font face="trebuchet ms, sans-serif">Здесь обучающиеся могут погрузиться в мир науки и исследований, получить передовые знания в области биотехнологий. Лаборатория оборудована современными &nbsp;лабораторными инструментами, необходимыми для проведения различных биологических экспериментов.</font></div></div>]]></data>
+
+
+
+
+
+
+  <data name="ru_panogroup465_description"><![CDATA[<div><b><font face="arial, sans-serif">«Лаборатория физики»</font></b></div><div><font face="trebuchet ms, sans-serif">Специализированное пространство, созданное для изучения и проведения практических экспериментов в области физики. Лаборатория предлагает возможность познакомиться с основами физических явлений, законами и принципами.</font></div><div><font face="trebuchet ms, sans-serif">Лаборатория оборудована специальными инструментами, позволяющими проводить различные эксперименты, а также располагает современным программным обеспечением, которое помогает анализировать и визуализировать результаты экспериментов.</font></div>]]></data>
+
+
+
+
+
+  <data name="ru_panogroup485_description"><![CDATA[<div><font face="arial, sans-serif"><b>«Лаборатория химии»</b></font></div><div><font face="trebuchet ms, sans-serif">Место, где обучающиеся могут изучать и проводить практические эксперименты в области химии.&nbsp;</font></div><div><font face="trebuchet ms, sans-serif">Лаборатория предоставляет возможности для изучения основных понятий, реакций и процессов в химии.&nbsp;</font></div><div><font face="trebuchet ms, sans-serif">Это отличная платформа для детей, интересующихся миром химии и желающих применить свои знания на практике.</font></div>]]></data>
+
+  <data name="ru_pano483_description"><![CDATA[<div><font face="arial, sans-serif"><b>«Лаборатория химии»</b></font></div><div><font face="trebuchet ms, sans-serif">Место, где обучающиеся могут изучать и проводить практические эксперименты в области химии.&nbsp;</font></div><div><font face="trebuchet ms, sans-serif">Лаборатория предоставляет возможности для изучения основных понятий, реакций и процессов в химии.&nbsp;</font></div><div><font face="trebuchet ms, sans-serif">Это отличная платформа для детей, интересующихся миром химии и желающих применить свои знания на практике.</font></div>]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <data name="ru_panogroup762_description"><![CDATA[<div><font face="arial, sans-serif"><b>«Технологическая лаборатория Робо»</b></font></div><div><font face="trebuchet ms, sans-serif">Лаборатория предоставляет детям возможность погрузиться в мир робототехники и программирования. Здесь они изучают основы создания и программирования роботов, разрабатывают собственные проекты и участвуют в соревнованиях. Дети учатся работать в команде, развивать креативное мышление и решать задачи с использованием современных технологий.&nbsp;</font></div><div><font face="trebuchet ms, sans-serif">Кроме того, здесь проходят занятия по таким программам, как «3D-моделирование» и «Аэростарт». Кабинет оснащён современными 3D-принтерами. А также здесь обучающиеся знакомятся с инновационным оборудованием – FPV-дроном, его устройством и управлением.</font></div>]]></data>
+
+
+
+
+
+
+  <data name="ru_panogroup803_description"><![CDATA[<div><b><font face="arial, sans-serif">«Технологическая лаборатория Хайтек»</font></b></div><div><font face="trebuchet ms, sans-serif">Это мастерская, оснащенная высокотехнологичным оборудованием: 3D-принтерами, лазерными станками и другой современной техникой.</font></div><div><font face="trebuchet ms, sans-serif">Именно здесь можно изготовить любое изделие, начиная с фигурки любимого персонажа и заканчивая сложным электронным устройством.</font></div>]]></data>
+
+
+
+
+
+
+
+
+</krpano>
